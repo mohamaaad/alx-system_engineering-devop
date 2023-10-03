@@ -1,2 +1,2 @@
 #!/bin/bash
-env | expr $(wc -l) + 1
+env 
